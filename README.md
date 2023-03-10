@@ -1,6 +1,6 @@
 # Cypress Testing Angular Based Application
 
-This repo was forked from https://github.com/cypress-io/cypress-heroes-app to practice Cypress testing (End to end & API testing)
+This repo was forked from https://github.com/cypress-io/cypress-heroes-app to practice Cypress testing (End to end & API testing) on Angular application
 
 ## Getting Started
 
